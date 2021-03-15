@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "gamedig": "^3.0.0"
+    "gamedig": "^3.0.0",
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
